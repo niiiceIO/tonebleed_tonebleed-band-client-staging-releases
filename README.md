@@ -1,2 +1,2 @@
 # Release Staging version
-GH_TOKEN=**** npm run publish-staging
+See readme of the main repository.
